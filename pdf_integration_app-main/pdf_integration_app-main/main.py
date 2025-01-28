@@ -67,4 +67,3 @@ if __name__ == "__main__":
     root = TkinterDnD.Tk()  # TkinterDnDを使用してウィンドウを作成
     app = MainApp(root)     # MainAppクラスのインスタンスを作成
     root.mainloop()         # メインループを開始
-#【202401】Panorama_月次報告書
